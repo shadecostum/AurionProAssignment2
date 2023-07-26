@@ -1,5 +1,5 @@
 using System;
-class PrimeNumber
+class LoopTest
 {
 	public static void Main()
 	{
