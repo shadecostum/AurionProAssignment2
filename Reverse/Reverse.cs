@@ -1,5 +1,5 @@
 using System;
-class PrimeNumber
+class Reverse
 {
 	public static void Main()
 	{
